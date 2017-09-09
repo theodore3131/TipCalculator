@@ -1,3 +1,3 @@
 # First Xcode Project
 ## Function
--Calculate tips after meal
+- Calculate tips after meal
